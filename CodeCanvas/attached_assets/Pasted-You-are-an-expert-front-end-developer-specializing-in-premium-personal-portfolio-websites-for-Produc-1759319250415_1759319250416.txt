@@ -1,0 +1,186 @@
+You are an expert front-end developer specializing in premium personal portfolio websites for Product Managers and AI builders. Create a complete, production-ready portfolio website for Deepak Kumar.
+
+## 🔹 PROFILE CONTEXT
+**Name:** Deepak Kumar
+**Tagline:** Product Manager • IIT Bombay Graduate • AI-Driven Product Strategy
+**Brand Tone:** Strategic Thinker, Systems-Oriented, Growth-Minded, Technical Product Leader
+
+## 🛠 TECHNICAL BACKGROUND TO HIGHLIGHT
+
+### **E-commerce & Marketplace Expertise**
+- **Amazon Ecosystem:** SP-API integration, Amazon Ads API, extensive seller app development
+- **Walmart Integration:** Full marketplace integration capabilities
+- **Multi-Marketplace Solutions:** Shopify integration, Ekart logistics
+- **Revenue Scaling:** Unit economics modeling, pay-as-you-go pricing strategies
+- **Internal Dashboard Development:** Single source of truth data systems for organizational decision-making
+
+### **Generative AI & LLM Applications**
+- **AI Content Generation:** Multi-marketplace single-click listing export
+- **Content Grading:** Image and text quality assessment with improvement strategies
+- **Competitor Tracking:** AI-powered marketplace intelligence
+- **Multi-LLM Architecture:** Evaluating best use cases, minimizing errors, reducing inference costs
+- **Development Tools:** Google AI Studio, Lovable, Replit, Cursor, Vercel deployments
+
+### **Product Strategy & Growth**
+- Revenue optimization and user base scaling
+- Pricing model innovation (pay-as-you-go, subscription models)
+- Internal dashboard creation for data-driven decisions
+- AI content generation pipeline development
+
+## 🎨 DESIGN REQUIREMENTS
+
+**Tech Stack:** React + TailwindCSS
+**Visual Theme:** Minimal Clean (Apple-like) with subtle tech accents
+**Vibe:** Premium, professional, slightly technical with coding aesthetics
+
+### **Design Elements to Include:**
+- Clean, modern interfaces with rounded corners
+- Smooth hover transitions and micro-interactions
+- Dark/Light mode toggle
+- Glass morphism effects in headers
+- Code block aesthetics for technical sections
+- Responsive across all devices
+- Professional color scheme: Navy blue, teal accents, clean whites
+
+## 📋 WEBSITE SECTIONS ARCHITECTURE
+
+### 1. **Hero Section**
+- Name: "Deepak Kumar"
+- Dynamic tagline: "Product Manager • IIT Bombay • AI Product Strategy"
+- Highlight: "Building scalable digital products through structured thinking, rapid experimentation, and strategic AI implementation"
+- CTA: "View My Work" & "Download Resume"
+
+### 2. **About Me**
+- IIT Bombay journey and technical foundation
+- Transition into Product Management
+- Philosophy: "Systems thinking meets user-centric product development"
+- Current focus: Marketplace platforms and generative AI applications
+
+### 3. **Technical Expertise Matrix**
+**AI & Machine Learning:**
+- LLM Integration & Optimization
+- Multi-Model Architecture Design
+- Prompt Engineering Systems
+- Generative AI Applications
+- AI Content Generation & Grading
+
+**E-commerce & Marketplace:**
+- Amazon SP-API & Ads API Integration
+- Walmart Marketplace Integration
+- Shopify Ecosystem Development
+- Multi-Marketplace Architecture
+- Competitor Intelligence Systems
+
+**Product Development Stack:**
+- Rapid Prototyping & Experimentation
+- Data-Driven Decision Frameworks
+- Growth Strategy & User Acquisition
+- Pricing Model Innovation
+- Internal Dashboard Development
+
+**Development Ecosystem:**
+- Google AI Studio Implementation
+- Lovable Platform Development
+- Replit & Cursor Workflows
+- Vercel Deployment Pipelines
+- API Integration Architecture
+
+### 4. **Project Showcase**
+**Featured Projects Structure:**
+- Multi-Marketplace AI Listing Platform
+- Amazon SP-API Integration Suite
+- Generative AI Content Pipeline
+- Internal Decision Intelligence Dashboard
+- Competitor Tracking & Analytics System
+
+**Project Card Format:**
+- Problem → Technical Approach → Business Outcome
+- Tech Stack: [API, AI Models, Frameworks]
+- Impact Metrics: Revenue growth, efficiency gains
+
+### 5. **AI & Technical Deep Dive**
+**Generative AI Applications:**
+- Content generation for multiple marketplaces
+- Image and text quality grading systems
+- Multi-LLM model evaluation frameworks
+- Cost optimization in AI inference
+- Error reduction strategies
+
+**Integration Architecture:**
+- Amazon/Walmart API ecosystems
+- Real-time data synchronization
+- Scalable marketplace connectors
+- Automated listing optimization
+
+### 6. **Tools & Development Environment**
+**Daily Drivers Section:**
+- Google AI Studio: Model training and deployment
+- Lovable: Rapid prototyping
+- Replit: Collaborative development
+- Cursor: AI-assisted coding
+- Vercel: Production deployments
+
+### 7. **Business Impact Metrics**
+- Revenue growth through pricing innovation
+- User base scaling strategies
+- Cost optimization in AI systems
+- Efficiency gains from automation
+- Decision velocity from internal dashboards
+
+### 8. **Decision Frameworks**
+- RICE Scoring for feature prioritization
+- ICE Prioritization models
+- First Principles problem breakdown
+- User feedback integration loops
+- A/B testing methodology
+
+### 9. **Current Experiments**
+- Real-time placeholder: "Currently exploring: [Latest AI/API integration]"
+- Learning timeline with technical insights
+- Tool experimentation updates
+
+### 10. **Contact & Collaboration**
+- Professional email
+- LinkedIn profile
+- Calendly integration for meetings
+- "Let's build something amazing" CTA
+
+## 💻 TECHNICAL IMPLEMENTATION NOTES
+
+### **Code Aesthetics to Include:**
+- Subtle code syntax highlighting in backgrounds
+- Terminal-like elements for technical sections
+- API endpoint visualizations
+- Architecture diagram placeholders
+- Real-time data visualization components
+
+### **Interactive Elements:**
+- Hover effects on project cards
+- Smooth scroll navigation
+- Dark/light mode toggle
+- Animated progress indicators
+- Interactive skill matrices
+
+### **Performance Considerations:**
+- Optimized images and lazy loading
+- Efficient React component structure
+- Mobile-first responsive design
+- Fast loading times (<3s)
+
+## 🚀 CONTENT STRATEGY
+
+**Tone:** Confident, technical yet accessible, growth-oriented
+**Voice:** Strategic thinker with execution capability
+**Focus:** Bridge between technical implementation and business impact
+
+## 📱 RESPONSIVE REQUIREMENTS
+- Mobile-optimized navigation
+- Tablet-friendly layouts
+- Desktop premium experience
+- Touch-friendly interactive elements
+
+---
+
+**DELIVERABLE:** Complete React + TailwindCSS codebase with all sections, interactive elements, and placeholder content ready for content population.
+
+**SPECIAL NOTE:** Incorporate subtle coding aesthetics throughout - think GitHub dark theme inspiration, clean code blocks, and technical visual elements that appeal to both technical and business stakeholders.
